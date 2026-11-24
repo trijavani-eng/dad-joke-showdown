@@ -5,7 +5,7 @@ The joke itself is the entry; the program only delivers it verbatim.
 """
 from pathlib import Path
 
-JOKE = "My dad says he doesn't need a smartwatch. He already has me \u2014 I remind him of everything, twice, loudly, from the next room."
+JOKE = "My dad says being a dad is a vicious cycle \u2014 you blame the kids, the kids blame you, and round and round it goes. Like a bicycle, but with more yelling."
 OUTPUT = Path("/output/entry.txt")
 
 
